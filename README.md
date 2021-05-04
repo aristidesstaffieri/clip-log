@@ -2,11 +2,12 @@
 
 ## Intro
 
-Clip Log is an example contract for the (Flow)[https://www.onflow.org/] ecosystem.
+Clip Log is an example contract for the [Flow](https://www.onflow.org/) ecosystem.
 
 This is inspired/derived from the KittyItems/TopShot contracts found here -
-(KittyItems)[https://github.com/onflow/kitty-items]
-(TopShot)[https://github.com/dapperlabs/nba-smart-contracts]
+
+[KittyItems](https://github.com/onflow/kitty-items)
+[TopShot](https://github.com/dapperlabs/nba-smart-contracts)
 
 ## Contract Overview
 
@@ -44,7 +45,7 @@ At this point you should be able to run
 
 `transactions/clips/scripts/get_clips_for_account.cdc`
 
-and see the ID for the Clip previously created. You can run scripts like this using the (GO SDK)[https://docs.onflow.org/flow-go-sdk]
+and see the ID for the Clip previously created. You can run scripts like this using the [GO SDK](https://docs.onflow.org/flow-go-sdk)
 
 
 ## TODO
